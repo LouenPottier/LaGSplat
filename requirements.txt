@@ -1,0 +1,20 @@
+# Interpreteur : Python 3.13 (sous Windows, `py`).
+#
+# torch : installer la roue correspondant a votre machine AVANT ce fichier,
+#   p. ex.  py -m pip install torch --index-url https://download.pytorch.org/whl/cu124
+#
+# gsplat : OPTIONNEL mais REQUIS POUR REPRODUIRE LES CHIFFRES. Sans lui, la
+#   chaine tourne quand meme (repli sur le decodeur torch pur, voir la section
+#   « Quick start » du README), mais environ 100 fois plus lentement et avec un
+#   compositing different, donc des poids et des chiffres non comparables.
+#   Installation : py -m pip install gsplat   (compile, demande CUDA + compilateur)
+
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+opencv-python>=4.9
+pytorch-msssim>=1.0
+tqdm>=4.66
+
+# Decommenter pour la reproduction fidele :
+# gsplat>=1.3

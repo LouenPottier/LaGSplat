@@ -1,0 +1,30 @@
+LaGSplat Research License
+
+Copyright (c) 2026 Commissariat a l'energie atomique et aux energies
+alternatives (CEA). Tous droits reserves.
+
+1. Objet. Le present document concede une licence sur le code source de ce
+   depot (le "Logiciel"), a l'exclusion de tout code, donnee ou modele tiers
+   (voir la section "Third-party data" du README), qui restent regis par leurs
+   propres conditions.
+
+2. Concession. Il est concede a toute personne physique ou morale un droit non
+   exclusif, non transferable et gratuit d'utiliser, reproduire et modifier le
+   Logiciel a des fins de RECHERCHE ACADEMIQUE NON COMMERCIALE, y compris la
+   verification et la reproduction des resultats publies par les auteurs.
+
+3. Exclusions. Tout usage commercial, toute integration dans un produit ou un
+   service, et toute redistribution du Logiciel ou d'une oeuvre derivee a des
+   tiers requierent une licence ecrite distincte du titulaire.
+
+4. Brevets. Aucune licence, expresse ou implicite, n'est concedee au titre d'un
+   quelconque brevet ou demande de brevet du titulaire.
+
+5. Attribution. Toute publication utilisant le Logiciel doit citer la reference
+   indiquee dans CITATION.cff.
+
+6. Absence de garantie. LE LOGICIEL EST FOURNI "EN L'ETAT", SANS GARANTIE
+   D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS SANS GARANTIE DE QUALITE
+   MARCHANDE, D'ADEQUATION A UN USAGE PARTICULIER OU D'ABSENCE DE CONTREFACON.
+   LE TITULAIRE NE SAURAIT ETRE TENU RESPONSABLE D'UN QUELCONQUE DOMMAGE
+   DECOULANT DU LOGICIEL OU DE SON UTILISATION.

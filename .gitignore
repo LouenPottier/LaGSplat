@@ -1,0 +1,21 @@
+# Donnees tiers : JAMAIS versionnees ici, elles se recuperent a l'execution.
+data/
+downloads/
+
+# Sorties d'entrainement
+checkpoints/
+cases/*/checkpoints/
+cases/*/data/
+*.pt
+*.npz
+*.npy
+*.png
+*.mp4
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/

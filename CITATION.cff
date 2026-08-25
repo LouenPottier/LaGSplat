@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: "LaGSplat: Inferring Physics-Governed Interactive Simulation from Monocular Video Using Latent Lagrangian Gaussian Splatting"
+message: "If you use this code, please cite the preprint below."
+type: software
+authors:
+  - family-names: Pottier
+    given-names: Louen
+    email: louen.pottier@cea.fr
+    affiliation: "Universite Paris-Saclay, CEA, List, F-91120 Palaiseau, France"
+repository-code: "https://github.com/LouenPottier/LaGSplat"
+preferred-citation:
+  type: article
+  title: "LaGSplat: Inferring Physics-Governed Interactive Simulation from Monocular Video Using Latent Lagrangian Gaussian Splatting"
+  authors:
+    - family-names: Pottier
+      given-names: Louen
+      affiliation: "Universite Paris-Saclay, CEA, List, F-91120 Palaiseau, France"
+  year: 2026
+  journal: "arXiv preprint"
+  url: "https://arxiv.org/abs/2608.16324"
+  notes: "arXiv:2608.16324"
+references:
+  - type: article
+    title: "Learning Visually Interpretable Oscillator Networks for Soft Continuum Robots from Video"
+    authors:
+      - family-names: Krauss
+        given-names: Henrik
+      - family-names: Licher
+        given-names: Johann
+      - family-names: Takeishi
+        given-names: Naoya
+      - family-names: Raatz
+        given-names: Annika
+      - family-names: Yairi
+        given-names: Takehisa
+    year: 2026
+    journal: "IEEE Robotics and Automation Letters"
+    doi: "10.1109/LRA.2026.3703241"
+    notes: "Data and baselines. Code: github.com/UThenrik/visual_oscillators_for_SCR"
+  - type: dataset
+    title: "Soft Continuum Robot Dataset (SCR)"
+    doi: "10.5281/zenodo.17812071"
+    license: CC-BY-ND-4.0
