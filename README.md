@@ -49,7 +49,7 @@ of the preprint defines the metrics.
 | Latent | `d = 4`, frozen PCA whitening after the autoencoder |
 | Decoder | 6D Gaussian Splatting (2 spatial + 4 latent dimensions) primitives rasterized with gsplat, 2048 Gaussians |
 | LNN | learned mass `M(q)`, full dissipation `C(q)`, invex deformation potential, invex pressure forcing |
-| LNN training | `lr 1e-3`, `c0 = 1`, `sigma 1`, 500 epochs, seed 0, from scratch, frozen AE |
+| LNN training | `lr 1e-3`, `c0 = 1`, `sigma 1`, 500 epochs, seed 0, frozen AE |
 
 ## Quick start
 
