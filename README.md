@@ -47,7 +47,7 @@ of the preprint defines the metrics.
 | Pressures | `p1..p4` from the NPZ, aligned by the authors, normalised by 101 325 Pa |
 | Split | first 80 % train, last 20 % validation, contiguous (43 872 / 10 968 frames) |
 | Latent | `d = 4`, frozen PCA whitening after the autoencoder |
-| Decoder | Gaussian Splatting 2D+t (gsplat), 2048 Gaussians |
+| Decoder | 6D Gaussian Splatting (2 spatial + 4 latent dimensions) primitives rasterized with gsplat, 2048 Gaussians |
 | LNN | learned mass `M(q)`, full dissipation `C(q)`, invex deformation potential, invex pressure forcing |
 | LNN training | `lr 1e-3`, `c0 = 1`, `sigma 1`, 500 epochs, seed 0, from scratch, frozen AE |
 
