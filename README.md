@@ -135,7 +135,7 @@ If you use the data, cite the dataset and the paper it comes with:
   note      = {CC BY-ND 4.0}
 }
 
-@ARTICLE{11560904,
+@ARTICLE{krauss2026von,
   author={Krauss, Henrik and Licher, Johann and Takeishi, Naoya and Raatz, Annika and Yairi, Takehisa},
   journal={IEEE Robotics and Automation Letters},
   title={Learning Visually Interpretable Oscillator Networks for Soft Continuum Robots From Video},
