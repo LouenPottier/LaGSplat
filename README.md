@@ -135,14 +135,12 @@ If you use the data, cite the dataset and the paper it comes with:
   note      = {CC BY-ND 4.0}
 }
 
-@article{krauss2026von,
-  title   = {Learning Visually Interpretable Oscillator Networks for
-             Soft Continuum Robots from Video},
-  author  = {Krauss, Henrik and Licher, Johann and Takeishi, Naoya
-             and Raatz, Annika and Yairi, Takehisa},
-  journal = {IEEE Robotics and Automation Letters},
-  year    = {2026},
-  doi     = {10.1109/LRA.2026.3703241},
-  note    = {arXiv:2511.18322}
-}
-```
+@ARTICLE{11560904,
+  author={Krauss, Henrik and Licher, Johann and Takeishi, Naoya and Raatz, Annika and Yairi, Takehisa},
+  journal={IEEE Robotics and Automation Letters},
+  title={Learning Visually Interpretable Oscillator Networks for Soft Continuum Robots From Video},
+  year={2026},
+  volume={11},
+  number={8},
+  pages={9495-9502},
+  doi={10.1109/LRA.2026.3703241}}
